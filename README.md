@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Frontend`**
 
-Me Chammo Guilherme Eduardo Figueiredo Periera sou natural da Bahia, Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniFg Guanambi, Sou apaixonada por tecnologia e planejo me consolidar na área como desenvolvedor de software.
+Me Chamo Guilherme Eduardo Figueiredo Periera sou natural da Bahia, Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniFg Guanambi, Sou apaixonada por tecnologia e planejo me consolidar na área como desenvolvedor de software.
 
 <p align="left">
     </a> 
